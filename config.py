@@ -8,7 +8,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "16457832"))
 API_HASH = getenv("API_HASH", "3030874d0befdb5d05597deacc3e83ab")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "7962364610:AAH9aJa__qFLnEmJ0kb4n4eITlM-1LFbQmI")
+BOT_TOKEN = getenv("BOT_TOKEN", "7962364610:AAEzO9Jjl8zZB9-d7pXYYLAGdgZhv4Nv3lA")
 OWNER_USERNAME = getenv("OWNER_USERNAME","solo_girl14")
 BOT_USERNAME = getenv("BOT_USERNAME" , "MoonVibe143Bot")
 BOT_NAME = getenv("BOT_NAME" , "MoonVibe")
